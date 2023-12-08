@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>io.github.nikolacvetkovic</groupId>
-    <artifactId>mssc-config-server</artifactId>
+    <artifactId>brewery-config-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <name>mssc-config-server</name>
