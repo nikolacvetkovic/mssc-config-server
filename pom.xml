@@ -13,7 +13,7 @@
     <artifactId>brewery-config-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>mssc-config-server</name>
+    <name>brewery-config-server</name>
     <description>mssc-config-server</description>
 
     <properties>
